@@ -23,7 +23,7 @@ The main goal is to provide an efficient solution for counting people, solving t
 
 Watch the video below to see the project in action, demonstrating both the LCD and Serial Monitor versions.
 
-**[🔗 Watch the Project Demo on YouTube](LINK_CATRE_YOUTUBE)**
+**[🔗 Watch the Project Demo on YouTube](https://youtu.be/LTxdHIleJpw)**
 
 ---
 
