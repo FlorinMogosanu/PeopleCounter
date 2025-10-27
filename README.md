@@ -4,6 +4,9 @@ This project details the construction of an Arduino-based digital people counter
 
 The main goal is to provide an efficient solution for counting people, solving the problem of capacity management in locations such as stores, conference rooms, or small events.
 
+
+
+---
 ## ✨ Key Features
 
 * **🔐 Password Authentication:** Prevents unauthorized operation of the counter.
@@ -13,6 +16,14 @@ The main goal is to provide an efficient solution for counting people, solving t
 * **✌️ Two Versions:**
     * *LCD Version:* Displays the current count, limit, and status on an LCD screen.
     * *Serial Monitor Version:* A minimalist version, without an LCD, which reports the status via the Arduino IDE's Serial Monitor.
+      
+---
+
+## 🎥 Project Demo
+
+Watch the video below to see the project in action, demonstrating both the LCD and Serial Monitor versions.
+
+**[🔗 Watch the Project Demo on YouTube](LINK_CATRE_YOUTUBE)**
 
 ---
 
